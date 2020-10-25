@@ -1,10 +1,9 @@
-# New Project
+# [Headline TK]
 
-TK: short project description
+This story analyzes the rates of extreme housing conditions (inadequate plumbing/kitchen facilities and overcrowding) in North Carolina using data from Kaiser Health News and county- and tract-level data from the American Community Survey (2018 5-year and 2013 5-year).
 
-*Created by Firstname Lastname (<>)*
+*Created by Korie Dean (<>)*
 
-*Reporter: Firstname Lastname (<>)*
 
 ## Project goal
 
@@ -22,7 +21,11 @@ TK: short project description
 
 ### Data sources
 
-*TK: List access info & contact info for data sources used in the project*
+Kaiser Health News: https://khn.org/wp-content/uploads/sites/2/2020/05/KHN-county-housing-data-download.zip
+2018 ACS 5-year (NC county-level): https://data.census.gov/cedsci/table?q=ACSDT1Y2019.B25048&g=0400000US37.050000&tid=ACSDT5Y2018.B25048&hidePreview=true
+2018 ACS 5-year (NC tract-level): https://data.census.gov/cedsci/table?q=ACSDT1Y2019.B25048&g=0400000US37.140000&tid=ACSDT5Y2018.B25048&hidePreview=true
+2013 ACS 5-year (NC county-level): https://data.census.gov/cedsci/table?q=ACSDT1Y2019.B25048&g=0400000US37.050000&tid=ACSDT5Y2013.B25048&hidePreview=true
+2013 ACS 5-year (NC tract-level): https://data.census.gov/cedsci/table?q=ACSDT1Y2019.B25048&g=0400000US37.140000&tid=ACSDT5Y2013.B25048&hidePreview=true
 
 ## Technical
 
